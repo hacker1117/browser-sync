@@ -5,7 +5,8 @@
     "build-all": "lerna run build-all",
     "test:e2e": "cb cy:*"
   },
-  "name": "browser-sync",
+  "name": "kzy-browser-sync",
+  "version": "1.0.0",
   "devDependencies": {
     "lerna": "^3.13.3"
   },
